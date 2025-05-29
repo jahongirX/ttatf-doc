@@ -1,0 +1,12 @@
+[12-Jul-2023 02:37:43 Asia/Tashkent] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/tesu/public_html/frontend/tests/_support/FunctionalTester.php on line 19
+[12-Jul-2023 02:37:50 Asia/Tashkent] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/tesu/public_html/frontend/tests/_support/UnitTester.php on line 19
+[12-Jul-2023 03:20:49 Asia/Tashkent] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/tesu/public_html/frontend/tests/_support/UnitTester.php on line 19
+[12-Jul-2023 03:26:48 Asia/Tashkent] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/tesu/public_html/frontend/tests/_support/UnitTester.php on line 19
+[12-Jul-2023 03:31:01 Asia/Tashkent] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/tesu/public_html/frontend/tests/_support/FunctionalTester.php on line 19
+[12-Jul-2023 03:57:27 Asia/Tashkent] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/tesu/public_html/frontend/tests/_support/FunctionalTester.php on line 19
+[12-Jul-2023 03:58:47 Asia/Tashkent] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/tesu/public_html/frontend/tests/_support/UnitTester.php on line 19
+[12-Jul-2023 04:11:49 Asia/Tashkent] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/tesu/public_html/frontend/tests/_support/FunctionalTester.php on line 19
+[12-Jul-2023 04:18:13 Asia/Tashkent] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/tesu/public_html/frontend/tests/_support/UnitTester.php on line 19
+[12-Jul-2023 04:26:05 Asia/Tashkent] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/tesu/public_html/frontend/tests/_support/FunctionalTester.php on line 19
+[12-Jul-2023 04:33:09 Asia/Tashkent] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/tesu/public_html/frontend/tests/_support/UnitTester.php on line 19
+[12-Jul-2023 04:48:10 Asia/Tashkent] PHP Fatal error:  Class 'Codeception\Actor' not found in /home/tesu/public_html/frontend/tests/_support/UnitTester.php on line 19

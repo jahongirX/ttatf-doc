@@ -1,0 +1,44 @@
+[11-Jul-2023 20:15:31 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/common/mail/passwordResetToken-html.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/passwordResetToken-html.php on line 7
+[11-Jul-2023 20:15:33 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/common/mail/passwordResetToken-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/passwordResetToken-text.php on line 6
+[11-Jul-2023 21:44:27 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/common/mail/passwordResetToken-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/passwordResetToken-text.php on line 6
+[11-Jul-2023 23:06:50 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/common/mail/passwordResetToken-html.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/passwordResetToken-html.php on line 7
+[11-Jul-2023 23:09:34 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/common/mail/passwordResetToken-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/passwordResetToken-text.php on line 6
+[11-Jul-2023 23:42:10 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/common/mail/passwordResetToken-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/passwordResetToken-text.php on line 6
+[12-Jul-2023 00:12:02 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/common/mail/passwordResetToken-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/passwordResetToken-text.php on line 6
+[12-Jul-2023 00:22:09 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/common/mail/passwordResetToken-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/passwordResetToken-text.php on line 6
+[12-Jul-2023 02:58:55 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/common/mail/passwordResetToken-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/passwordResetToken-text.php on line 6
+[12-Jul-2023 03:33:17 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/common/mail/passwordResetToken-text.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/passwordResetToken-text.php on line 6
+[12-Jul-2023 04:05:28 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/common/mail/passwordResetToken-html.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/passwordResetToken-html.php on line 7

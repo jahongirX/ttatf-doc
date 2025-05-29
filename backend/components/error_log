@@ -1,0 +1,2 @@
+[11-Jul-2023 22:30:22 Asia/Tashkent] PHP Fatal error:  Class 'yii\bootstrap\Widget' not found in /home/tesu/public_html/backend/components/MenuWidget.php on line 15
+[11-Jul-2023 22:38:47 Asia/Tashkent] PHP Fatal error:  Class 'yii\bootstrap\Widget' not found in /home/tesu/public_html/backend/components/MenuWidget.php on line 15

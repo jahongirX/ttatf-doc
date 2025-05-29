@@ -1,0 +1,20 @@
+.logo{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.logo img{
+    max-width: 75px;
+}
+
+.login-box .card, .register-box .card{
+    overflow: hidden;
+}
+
+.login-box-msg, .register-box-msg{
+    padding: 0;
+}

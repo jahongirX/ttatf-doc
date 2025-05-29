@@ -1,0 +1,15 @@
+[12-Jul-2023 00:58:14 Asia/Tashkent] PHP Notice:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' in /home/tesu/public_html/backend/config/main.php on line 57
+[12-Jul-2023 00:58:24 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'yii\helpers\ArrayHelper' not found in /home/tesu/public_html/backend/config/test-local.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/backend/config/test-local.php on line 3
+[12-Jul-2023 02:25:54 Asia/Tashkent] PHP Notice:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' in /home/tesu/public_html/backend/config/main.php on line 57
+[12-Jul-2023 03:40:36 Asia/Tashkent] PHP Notice:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' in /home/tesu/public_html/backend/config/main.php on line 57
+[12-Jul-2023 03:40:38 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'yii\helpers\ArrayHelper' not found in /home/tesu/public_html/backend/config/test-local.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/backend/config/test-local.php on line 3
+[12-Jul-2023 04:47:39 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'yii\helpers\ArrayHelper' not found in /home/tesu/public_html/backend/config/test-local.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/backend/config/test-local.php on line 3

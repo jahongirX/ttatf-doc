@@ -1,0 +1,96 @@
+[11-Jul-2023 21:45:18 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/html.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/html.php on line 8
+[11-Jul-2023 21:45:22 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/text.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/text.php on line 10
+[11-Jul-2023 21:53:58 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/html.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/html.php on line 8
+[11-Jul-2023 23:02:12 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/text.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/text.php on line 10
+[11-Jul-2023 23:02:17 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/html.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/html.php on line 8
+[11-Jul-2023 23:10:07 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/html.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/html.php on line 8
+[11-Jul-2023 23:53:38 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/text.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/text.php on line 10
+[11-Jul-2023 23:56:25 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/html.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/html.php on line 8
+[12-Jul-2023 00:02:18 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/html.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/html.php on line 8
+[12-Jul-2023 00:02:27 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/text.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/text.php on line 10
+[12-Jul-2023 00:28:58 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/text.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/text.php on line 10
+[12-Jul-2023 00:29:08 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/html.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/html.php on line 8
+[12-Jul-2023 00:38:56 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/text.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/text.php on line 10
+[12-Jul-2023 00:38:58 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/html.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/html.php on line 8
+[12-Jul-2023 00:53:53 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/html.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/html.php on line 8
+[12-Jul-2023 00:54:32 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/text.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/text.php on line 10
+[12-Jul-2023 01:10:36 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/html.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/html.php on line 8
+[12-Jul-2023 01:22:42 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/text.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/text.php on line 10
+[12-Jul-2023 01:24:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/html.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/html.php on line 8
+[12-Jul-2023 01:34:58 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/text.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/text.php on line 10
+[12-Jul-2023 02:40:06 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/html.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/html.php on line 8
+[12-Jul-2023 03:22:02 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/html.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/html.php on line 8
+[12-Jul-2023 03:24:09 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/text.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/text.php on line 10
+[12-Jul-2023 04:37:17 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/tesu/public_html/common/mail/layouts/html.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/common/mail/layouts/html.php on line 8

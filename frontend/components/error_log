@@ -1,0 +1,14 @@
+[11-Jul-2023 20:42:44 Asia/Tashkent] PHP Fatal error:  Class 'yii\web\Request' not found in /home/tesu/public_html/frontend/components/Request.php on line 6
+[11-Jul-2023 22:13:02 Asia/Tashkent] PHP Fatal error:  Class 'yii\web\Request' not found in /home/tesu/public_html/frontend/components/Request.php on line 6
+[11-Jul-2023 22:17:52 Asia/Tashkent] PHP Fatal error:  Class 'yii\base\Component' not found in /home/tesu/public_html/frontend/components/UserCounter.php on line 10
+[11-Jul-2023 23:05:08 Asia/Tashkent] PHP Fatal error:  Class 'yii\web\Request' not found in /home/tesu/public_html/frontend/components/Request.php on line 6
+[11-Jul-2023 23:06:33 Asia/Tashkent] PHP Fatal error:  Class 'yii\base\Component' not found in /home/tesu/public_html/frontend/components/UserCounter.php on line 10
+[11-Jul-2023 23:24:18 Asia/Tashkent] PHP Fatal error:  Class 'yii\base\Component' not found in /home/tesu/public_html/frontend/components/UserCounter.php on line 10
+[12-Jul-2023 00:03:27 Asia/Tashkent] PHP Fatal error:  Class 'yii\web\Request' not found in /home/tesu/public_html/frontend/components/Request.php on line 6
+[12-Jul-2023 00:08:04 Asia/Tashkent] PHP Fatal error:  Class 'yii\base\Component' not found in /home/tesu/public_html/frontend/components/UserCounter.php on line 10
+[12-Jul-2023 00:14:56 Asia/Tashkent] PHP Fatal error:  Class 'yii\web\Request' not found in /home/tesu/public_html/frontend/components/Request.php on line 6
+[12-Jul-2023 00:26:06 Asia/Tashkent] PHP Fatal error:  Class 'yii\base\Component' not found in /home/tesu/public_html/frontend/components/UserCounter.php on line 10
+[12-Jul-2023 00:31:58 Asia/Tashkent] PHP Fatal error:  Class 'yii\web\Request' not found in /home/tesu/public_html/frontend/components/Request.php on line 6
+[12-Jul-2023 00:31:58 Asia/Tashkent] PHP Fatal error:  Class 'yii\base\Component' not found in /home/tesu/public_html/frontend/components/UserCounter.php on line 10
+[12-Jul-2023 02:25:25 Asia/Tashkent] PHP Fatal error:  Class 'yii\web\Request' not found in /home/tesu/public_html/frontend/components/Request.php on line 6
+[12-Jul-2023 03:44:37 Asia/Tashkent] PHP Fatal error:  Class 'yii\base\Component' not found in /home/tesu/public_html/frontend/components/UserCounter.php on line 10

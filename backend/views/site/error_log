@@ -1,0 +1,28 @@
+[11-Jul-2023 20:39:29 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/backend/views/site/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/backend/views/site/index.php on line 3
+[11-Jul-2023 20:44:56 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/backend/views/site/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/backend/views/site/index.php on line 3
+[11-Jul-2023 23:01:38 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/backend/views/site/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/backend/views/site/index.php on line 3
+[12-Jul-2023 00:04:58 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/backend/views/site/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/backend/views/site/index.php on line 3
+[12-Jul-2023 00:45:14 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/backend/views/site/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/backend/views/site/index.php on line 3
+[12-Jul-2023 01:42:03 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/backend/views/site/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/backend/views/site/index.php on line 3
+[12-Jul-2023 02:25:30 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class 'Yii' not found in /home/tesu/public_html/backend/views/site/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tesu/public_html/backend/views/site/index.php on line 3

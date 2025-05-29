@@ -1,0 +1,2 @@
+[12-Jul-2023 02:53:29 Asia/Tashkent] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/tesu/public_html/vendor/symfony/polyfill-php80/bootstrap.php on line 29
+[12-Jul-2023 04:00:49 Asia/Tashkent] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/tesu/public_html/vendor/symfony/polyfill-php80/bootstrap.php on line 29

@@ -1,0 +1,7 @@
+[11-Jul-2023 20:26:46 Asia/Tashkent] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/tesu/public_html/common/fixtures/User.php on line 6
+[11-Jul-2023 22:09:04 Asia/Tashkent] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/tesu/public_html/common/fixtures/User.php on line 6
+[11-Jul-2023 22:52:34 Asia/Tashkent] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/tesu/public_html/common/fixtures/User.php on line 6
+[11-Jul-2023 23:52:17 Asia/Tashkent] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/tesu/public_html/common/fixtures/User.php on line 6
+[11-Jul-2023 23:58:38 Asia/Tashkent] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/tesu/public_html/common/fixtures/User.php on line 6
+[12-Jul-2023 01:33:48 Asia/Tashkent] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/tesu/public_html/common/fixtures/User.php on line 6
+[12-Jul-2023 02:40:55 Asia/Tashkent] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/tesu/public_html/common/fixtures/User.php on line 6
