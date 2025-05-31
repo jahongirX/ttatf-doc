@@ -18,3 +18,63 @@
 .login-box-msg, .register-box-msg{
     padding: 0;
 }
+
+.user_types{
+    display: flex;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.user_types .type_item{
+    flex: 0 0 auto;
+    width: 50%;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    background-color: #eee;
+    text-align: center;
+    color: #000;
+}
+
+.user_types .type_item.active{
+    background-color: #25348b;
+    color: #fff;
+}
+
+.login_forms{
+    display: flex;
+    gap: 0 20px;
+}
+
+.login_forms .form_item{
+    /* display: none; */
+    width: 100%;
+    flex: 0 0 auto;
+    transition: .5s all ease-in-out;
+}
+
+.login_forms .form_item#student{
+    transform: translateX(-338px);
+}
+
+.login_forms .form_item#student.active{
+    transform: translateX(0);
+}
+
+.login_forms .form_item#staff.active{
+    transform: translateX(-338px);
+}
+
+.login_forms .form-group{
+    margin-bottom: 10px;
+}
+
+.slide-horizontal {
+    overflow: hidden; /* important to hide inner content */
+    white-space: nowrap;
+}
+
+.dropdown-item{
+    white-space: normal;
+}

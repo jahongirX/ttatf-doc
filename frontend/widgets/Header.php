@@ -15,13 +15,10 @@ class Header extends Widget {
 
     public function run()
     {
-        $models = Menu::find()->where('status=1')->andWhere(['parent' => NULL,'type' => Menu::HEADER])->orderBy(['order_by' => SORT_ASC])->all();
-        $langs = Languages::find()->all();
+        $user = (! Yii::$app->user->isGuest ) ? Yii::$app->user : Yii::$app->staff;
 
-
-        return $this->render('header', [
-            'langs' => $langs,
-            'models' => $models,
+        return $this->render('header',[
+            'user' => $user
         ]);
     }
 

@@ -6,10 +6,8 @@
 /* @var $exception Exception */
 
 use yii\helpers\Html;
-use yii\bootstrap\ActiveForm;
-use common\models\SearchForm;
 
-$this->title =\common\components\StaticFunctions::getSettings('title') . " - " . nl2br(Html::encode($message));
+$this->title = nl2br(Html::encode($message));
 ?>
 
 <!-- Page Banner Section Start -->
@@ -33,15 +31,6 @@ $this->title =\common\components\StaticFunctions::getSettings('title') . " - " .
 <div class="blog-section section-padding-01">
 
     <div class="container error_image">
-
-        <!-- Page Breadcrumb Start -->
-        <div class="page-breadcrumb mb-15">
-            <ul class="breadcrumb">
-                <li class="breadcrumb-item"><a href="<?=\yii\helpers\Url::Home()?>"><?=Yii::t('main','home')?></a></li>
-                <li class="breadcrumb-item active"><?=nl2br(Html::encode($message))?></li>
-            </ul>
-        </div>
-        <!-- Page Breadcrumb End -->
 
         <div class="text-center">
             <img src="/images/error.jpg" alt="error" style="width: 60%">

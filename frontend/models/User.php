@@ -12,6 +12,7 @@ class User extends \yii\base\BaseObject implements \yii\web\IdentityInterface
     public $password;
     public $authKey;
     public $accessToken;
+    public $userData;
 
 
     /**
@@ -44,6 +45,7 @@ class User extends \yii\base\BaseObject implements \yii\web\IdentityInterface
                 'username' => $data['short_name'],
                 'authKey' => $token,
                 'accessToken' => $token,
+                'userData' => $data
             ]);
         }
     

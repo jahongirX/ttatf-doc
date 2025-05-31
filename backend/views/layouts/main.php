@@ -43,6 +43,11 @@ AppAsset::register($this);
                     
                     $menuItems[] = ['label' => Yii::t('main', 'Xujjatlar'), 'icon' => 'pg-layouts', 'items' => [
                         ['label' => Yii::t('main', 'Shablonlar'), 'url' => '/document-template/index', 'icon' => 'SH'],
+                        ['label' => Yii::t('main', 'Static qiymatlar'), 'url' => '/static-variables/index', 'icon' => 'SH'],
+                    ]];
+
+                    $menuItems[] = ['label' => Yii::t('main', 'Hodimlar'), 'icon' => 'pg-layouts', 'items' => [
+                        ['label' => Yii::t('main', 'Hodimlar'), 'url' => '/staff/index', 'icon' => 'SH'],
                     ]];
 
                     

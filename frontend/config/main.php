@@ -64,7 +64,13 @@ return [
         'user' => [
             'identityClass' => 'frontend\models\User',
             'enableAutoLogin' => true,
-            'identityCookie' => ['name' => '_identity-frontend', 'httpOnly' => true],
+            'identityCookie' => ['name' => '_identity-student', 'httpOnly' => true],
+        ],
+        'staff' => [
+            'class' => 'yii\web\User',
+            'identityClass' => 'common\models\Staff',
+            'enableAutoLogin' => true,
+            'identityCookie' => ['name' => '_identity-staff', 'httpOnly' => true],
         ],
         'session' => [
             // this is the name of the session cookie used for login on the frontend
@@ -113,7 +119,7 @@ return [
 
     'as beforeRequest' => [
 
-        'class' => 'yii\filters\AccessControl',
+        'class' => \frontend\components\MultiUserAccessControl::class,
 
         'rules' => [
 
@@ -147,7 +153,11 @@ return [
 
         'denyCallback' => function () {
 
-            return Yii::$app->response->redirect(['user/login']);
+            if (Yii::$app->staff->isGuest && Yii::$app->user->isGuest) {
+                return Yii::$app->response->redirect(['user/login']);
+            }
+            // User login bo‘lgan, lekin no'ruxsatlangan sahifaga kiryapti
+            throw new \yii\web\ForbiddenHttpException('Sizda ushbu sahifaga ruxsat yo‘q.');
 
         },
 

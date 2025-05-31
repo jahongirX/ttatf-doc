@@ -1,13 +1,10 @@
 <?php
 
 use yii\helpers\Html;
-use yii\bootstrap\Nav;
-use yii\bootstrap\NavBar;
-use yii\widgets\Breadcrumbs;
 use frontend\assets\AppAsset;
-use common\widgets\Alert;
-use yii\widgets\ActiveForm;
-use yii\web\View;
+use frontend\widgets\Footer;
+use frontend\widgets\Header;
+use frontend\widgets\Sidebar;
 
 AppAsset::register($this);
 
@@ -27,17 +24,28 @@ AppAsset::register($this);
 
 </head>
 
-<body class="sticky-header">
+<body class="layout-fixed sidebar-expand-lg bg-body-tertiary">
 
     <?php $this->beginBody() ?>
 
-    <main>
+    
+
+    <!--begin::App Wrapper-->
+    <div class="app-wrapper">
+
+        <?= Header::widget(); ?>
+
+        <?= Sidebar::widget(); ?>
         
-        <?= $content;?>
+        <main class="app-main">
+            <?= $content;?>
+        </main>
 
-    </main>
+        <?= Footer::widget(); ?>
 
+    </div>
 
+    
 
     <?php $this->endBody() ?>
 

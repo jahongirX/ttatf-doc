@@ -70,7 +70,7 @@ class LoginForm extends Model
     public function attributeLabels()
     {
         return [
-            'username' => 'Login/ID',
+            'username' => 'Talaba ID',
             'password' => 'Parol'
         ];
     }

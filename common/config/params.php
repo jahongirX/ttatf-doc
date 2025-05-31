@@ -1,28 +1,9 @@
 <?php
 return [
-    'frontend' => 'https://tues.uz/',
-    // 'frontend' => 'https://f.tisu/',
-    'backend' => 'https://admin.tesu.uz',
-    // 'backend' => 'https://b.tisu',
-
-    'googleSheets' => [
-        'spreadsheetId' => '16mp6T29gNxKSoOGdeavl3xId6Zji_dd1k-ru0F4YGCI',
-        'credentials' => '
-            {
-            "type": "service_account",
-            "project_id": "my-project-39327-1716683764770",
-            "private_key_id": "81156f2e2d73285db329a9ed5fd4a4bc4291b9ab",
-            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD6fkCkxQWZE49g\njlNE7QsB/uSTKWwUOIIIIoZ10TeI8WlF9IgRKz/G2/2wQhgEApNSm6Wh3oIFcLk4\nKnL19h9sxn1UC4hZLIITXnW+fGr/hLqiYvwtdDwhSh8XGxLuEbP4lFCxqCiS3TnA\nHYn92ua6AA7aAf9o8YyCXNL8EZakJkPge5GM+U7Y/71pqTw7IMf22h8OVPfTubW6\nh6nELxKFikRvxmv0vaEz1b+WN/vyLBnaC/OdEjPl2aipLcTPJF3+104GsxhKF++R\nYv/rxzrGjKN4xviG+OHfProzhEN8kRDWwG5FBDQo59XHe+HJQEhMSkCNW/yM72iT\nCpJGEH5tAgMBAAECggEABf6gt00xT+/KgnH8n9SYo+YWGJ1+U0QAfKPoNmvuLuqi\nUO+LIr2bDy36fPijgmHygdml1dLqNVRYG0t+jEJzVqFah+rC9b7rxG86/5NLrHPg\nU1H75DV49j+nW5ld4Y1uknETjC+Jil8dTfj4xtNN/+mlOHRMHjLgUlhY5kESKxzk\nwPApgCy7ViDKTM4w8JV6jauBWfow4vKhPNgUbFTOYtLso+K0NrAEpPjk8cI4X8mq\n0qye/u8cKHW8OK/6qCQqDSU53xj5JpAZm4l5xphtiUAjeOZzoNbsTaXcxpr7SkZh\n116Dl1NdOt9QYvuuxxGHMBQJWbt0rIFjNAQq2FdAQQKBgQD/0lIlNmtI3lLkWwMe\n0oriYAy9+GcYdhaULrZD2eOK/EP6xRB//giPbx3nDcZMJPEnvtMPmXcIfKJMGhkk\nwLiCGE0sEDW8pws+KiEDkqn7WHckR25jPpsrUVLJblxanPV/4LwRIiobe6XpqNxn\nSd9/A30RtPuLa/BfKH98nG3eoQKBgQD6qvrup4fflv8m8ffVFQ4P8ufoqjP0WD+G\nSY9yq5tBqfD/5J4OfD3lufv81/ryOUvk20iT7Nigd9L8JqgPkIgaCeVdD5aSa468\nuaCa5nz1KSpfE5Q4Ee5oH1Gft1SYjVwNhiQXHufTTczSF1bNB7rO6pov1cmlhXXN\nnnqfHV+ITQKBgQD68DY/5neqjNrGwTf4XhJ6KDmXhzip1/wh8wg62lrHlNih/fhH\ndMq02Ax+/xYKzxn3IMosPR90Jb2V5OvRD3JtuqTImkX7/eebXPvxY0Z2FLsZzS/N\nDjZrcWRBzo2tHNX8UFhqfhbLyqhe4ZMBhodDMgrW+a7dfk3VKgaUF2X2wQKBgQCp\nzKySgXWu5fANB5ekBdEyyI6DstfiyuytIKNFQC25e06/aLQQh+S9+xBRJFTfRCS+\n8DPn0GalvMV0/RKXCIbJbK6sLWUH5kgYW34Jr9wxjiMfqHmcybi/W4fFM0Dg3dDf\ncGB+MPdE0czO+/RWisfmZlDv2lfwAcnc8V+K7TDLeQKBgQDVBGXglfV+VAWUhTQY\nCcXHLQmd8aA7hBOT7wkjU6O3WzC/nwxlCPruzl6fI/+6xjNKk8MW9mIMrIhKYa5f\neGBr4Ev9FAj2Cv50+yBY0cnLtUMmy9r8WzLgj1odEHGq5zVq2FO+gOeCEgsi1TrF\nNQObUWhoS0hcFBfNvnpAaBi/Ew==\n-----END PRIVATE KEY-----\n",
-            "client_email": "tisu-spreadsheet-write@my-project-39327-1716683764770.iam.gserviceaccount.com",
-            "client_id": "110216688526256507235",
-            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-            "token_uri": "https://oauth2.googleapis.com/token",
-            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tisu-spreadsheet-write%40my-project-39327-1716683764770.iam.gserviceaccount.com",
-            "universe_domain": "googleapis.com"
-            }
-        ',
-    ],
+    // 'frontend' => 'https://f.ffta.uz/',
+    'frontend' => 'https://f.ttatf',
+    // 'backend' => 'https://admin.tesu.uz',
+    'backend' => 'http://b.ttatf',
 
     'images_dir' => '/frontend/web/uploads/images/',
     'images_url' => '/uploads/images/',
